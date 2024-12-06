@@ -1,4 +1,4 @@
-# NRFormer: A Spatio-Temporal Graph Transformer for National-Wide Nuclear Radiation Forecasting
+# A Spatio-Temporal Graph Transformer for Nationwide Nuclear Radiation Forecasting
 
 <p align="center">
 
@@ -20,8 +20,6 @@
 <a id="introduction"></a>
 ## 1 Introduction
 
-Official code for article "NRFormer: A Spatio-Temporal Graph Transformer for National-Wide Nuclear Radiation Forecasting".
-
 Nuclear radiation (NR), which refers to the energy emitted from atomic nuclei during decay, poses substantial risks to human health and environmental safety. Accurate forecasting of nuclear radiation levels is crucial for informed decision-making by both individuals and governments. However, this task is challenging due to the imbalanced distribution of monitoring stations over a wide spatial range and the non-stationary radiation variation patterns. In this study, we introduce NRFormer, an innovative framework tailored for national-wide prediction of nuclear radiation variations.
 
 <div style="display: flex; justify-content: center;">
@@ -39,5 +37,4 @@ Nuclear radiation (NR), which refers to the energy emitted from atomic nuclei du
 ## 3 Dataset
 
 Our raw data is available at "[OneDrive](#)".
-
 
