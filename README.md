@@ -1,4 +1,4 @@
-# NRFormer: A Spatio-Temporal Graph Transformer for National-Wide Nuclear Radiation Forecasting
+# A Spatio-Temporal Graph Transformer for Nationwide Nuclear Radiation Forecasting
 
 <p align="center">
 
